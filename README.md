@@ -1,8 +1,8 @@
 ## cmd_colorz
-### ℹ About it
+### 🎯 About it
 A small tool usefull to generate color code for CMD and Batch scripts
 
-### ⚙ How to run it
+### 🎲 How to run it
 Launch it by double click on it, the program will show you the color code associated with the current display.
 Press enter to generate another color.
 
